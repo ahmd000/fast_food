@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "531355472441",
+    "project_id": "fastfood-c227e",
+    "storage_bucket": "fastfood-c227e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531355472441:android:b73619dbc7c53924df73e8",
+        "android_client_info": {
+          "package_name": "com.fast_food.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531355472441-c6km8tpibn4sap3d0i2qqk4evfl4dimu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCih_XtZf7A7OrijV2Xh-sM2YlFjf1rwSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531355472441-c6km8tpibn4sap3d0i2qqk4evfl4dimu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "531355472441-2ive1nt8j66m4omjb3qhhbhclksoaonb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mstoreapp.grocerystore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
